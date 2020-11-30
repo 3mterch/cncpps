@@ -1,0 +1,40 @@
+
+body {
+    font-family: "Arial","Tahoma","Î¢ÈíÑÅºÚ","ÑÅºÚ"; 
+    font-size:12px;
+}
+
+.logo_gridsss{
+	background:transparent url("./logo_grid.gif") no-repeat;
+}
+
+.bgImg{
+	background:transparent url("./bgimage.jpg") no-repeat;
+}
+.buttonPartners{
+	   cursor:pointer;
+    margin-left:7px;
+    width:77px;
+    height:31px;
+    background: white url("./Per_submit.jpg");
+    border: 0;
+}
+.buttonReset{
+	cursor:pointer;
+    width:77px;
+    height:31px;
+    background: white url("./Per_rest.jpg");
+    border: 0;
+}
+.tbl {
+	width:100%;
+	text-align: center;
+	border:0;
+}
+.tblFoot {
+	width:100%;
+	text-align: center;
+	border:0;
+	font-size: 12px; 
+	font-family: Arial, Helvetica, sans-serif
+}
